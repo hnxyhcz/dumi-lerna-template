@@ -6,7 +6,7 @@
     "lerna-demo",
     "dumi-lerna-demo"
   ],
-  "main": "dist/lerna-demo.js",
+  "main": "./lib/index.js",
   "module": "./es/index.js",
   "types": "./lib/index.d.ts",
   "unpkg": "dist/lerna-demo.js",
