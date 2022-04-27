@@ -1,0 +1,45 @@
+{
+  "name": "lerna-demo",
+  "version": "0.1.0",
+  "description": "dumi lern library",
+  "keywords": [
+    "lerna-demo",
+    "dumi-lerna-demo"
+  ],
+  "main": "dist/lerna-demo.js",
+  "module": "./es/index.js",
+  "types": "./lib/index.d.ts",
+  "unpkg": "dist/lerna-demo.js",
+  "sideEffects": false,
+  "authors": {
+    "name": "hnxyhcz",
+    "email": "hnxyhcz@hotmail.com"
+  },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.com/"
+  },
+  "repository": "https://github.com/hnxyhcz/dumi-lerna-template",
+  "homepage": "https://github.com/hnxyhcz/dumi-lerna-template",
+  "scripts": {
+    "build": "gulp && webpack-cli"
+  },
+  "files": [
+    "dist",
+    "lib",
+    "es",
+    "metadata.json",
+    "package.json",
+    "README.md"
+  ],
+  "dependencies": {
+  },
+  "peerDependencies": {
+    "react": "^16.8.0 || ^17.0.0 || ^18.0.0"
+  },
+  "devDependencies": {
+  },
+  "engines": {
+    "node": ">=8.0.0"
+  },
+  "license": "MIT"
+}
