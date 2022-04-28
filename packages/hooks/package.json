@@ -1,6 +1,6 @@
 {
   "name": "hnxyhcz-hooks",
-  "version": "0.1.18",
+  "version": "0.1.17",
   "description": "react hooks library",
   "keywords": [
     "hnxyhcz-hooks",
@@ -15,10 +15,6 @@
   "authors": {
     "name": "hnxyhcz",
     "email": "hnxyhcz@hotmail.com"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/hnxyhcz/dumi-lerna-template.git"
   },
   "publishConfig": {
     "registry": "https://registry.npmjs.com/"
