@@ -17,7 +17,7 @@
     "email": "hnxyhcz@hotmail.com"
   },
   "publishConfig": {
-    "registry": "https://registry.npmjs.com/"
+    "registry": "https://registry.npmjs.org/"
   },
   "scripts": {
     "build": "gulp && webpack-cli"
@@ -40,5 +40,5 @@
     "node": ">=8.0.0"
   },
   "license": "MIT",
-  "gitHead": "bbf32c2f583c55a867ba7798da2455c16348d1c7"
+  "gitHead": "75b2044c5d994466042d596ca0771fd48638d41c"
 }
