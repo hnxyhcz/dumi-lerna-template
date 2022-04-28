@@ -1,8 +1,6 @@
 export const menus = [
   {
-    title: 'Hooks',
-    children: [
-      'useToggle',
-    ],
+    title: 'components',
+    children: ['useToggle'],
   },
 ];

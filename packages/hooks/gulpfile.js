@@ -38,7 +38,7 @@ async function genMetaData() {
       const description = await genDesc(`src/${hook}/index.en-US.md`);
       return {
         name: hook,
-        docs: `https://ahooks.js.org/hooks/${camelToKebab(hook)}`,
+        docs: `https://surveyking.cn/docs/${camelToKebab(hook)}`,
         description,
       };
     }),

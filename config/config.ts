@@ -29,9 +29,9 @@ export default {
     ],
   ],
   mode: 'site',
-  title: 'surveyking',
-  favicon: '/logo.png',
   logo: '/logo.png',
+  title: 'SurveyKing',
+  favicon: '/logo.png',
   dynamicImport: {},
   manifest: {},
   hash: true,
@@ -48,11 +48,11 @@ export default {
   navs: {
     'zh-CN': [
       { title: '指南', path: '/zh-CN/guide' },
-      { title: 'Hooks', path: '/zh-CN/hooks' },
+      { title: '组件', path: '/zh-CN/hooks' },
     ],
     'en-US': [
       { title: 'Guide', path: '/guide' },
-      { title: 'Hooks', path: '/hooks' },
+      { title: 'Components', path: '/hooks' },
     ],
   },
   menus: {

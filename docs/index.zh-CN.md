@@ -1,12 +1,12 @@
 ---
 title: 卷王 - 问卷编辑器
 hero:
-  image: /logo.png
+  title: 卷王
   desc: 问卷编辑器
   actions:
     - text: 指南
       link: /zh-CN/guide
-    - text: Hooks 列表
+    - text: 组件列表
       link: /zh-CN/hooks
 features:
   - icon: https://gw.alipayobjects.com/zos/bmw-prod/881dc458-f20b-407b-947a-95104b5ec82b/k79dm8ih_w144_h144.png
@@ -18,7 +18,7 @@ features:
   - icon: https://gw.alipayobjects.com/zos/bmw-prod/d1ee0c6f-5aed-4a45-a507-339a4bfe076c/k7bjsocq_w144_h144.png
     title: Feature 3
     desc: Balabala
-footer:  Copyright © 2022<br />Powered by [卷王](https://d.umijs.org)
+footer: Copyright © 2022<br />Powered by [卷王](https://surveyking.cn)
 ---
 
 ## hello dumi-lerna-demo
