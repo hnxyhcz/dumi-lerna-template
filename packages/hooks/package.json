@@ -1,6 +1,6 @@
 {
   "name": "@test/lerna-demo",
-  "version": "0.1.10",
+  "version": "0.1.11",
   "description": "dumi lern library",
   "keywords": [
     "lerna-demo",
