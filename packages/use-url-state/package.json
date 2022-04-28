@@ -20,7 +20,7 @@
     "build": "gulp && webpack-cli"
   },
   "publishConfig": {
-    "registry": "https://registry.npmjs.org/"
+    "registry": "https://registry.npmjs.com/"
   },
   "bugs": {
     "url": ""
@@ -34,5 +34,5 @@
     "query-string": "^6.9.0"
   },
   "license": "MIT",
-  "gitHead": "75b2044c5d994466042d596ca0771fd48638d41c"
+  "gitHead": "88de1384457ca11a25682108176d52c9629d0045"
 }
