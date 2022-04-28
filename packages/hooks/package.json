@@ -10,7 +10,7 @@
   "main": "./lib/index.js",
   "module": "./es/index.js",
   "types": "./lib/index.d.ts",
-  "unpkg": "dist/hooks.js",
+  "unpkg": "dist/hnxyhcz-hooks.js",
   "sideEffects": false,
   "authors": {
     "name": "hnxyhcz",
@@ -40,5 +40,5 @@
     "node": ">=8.0.0"
   },
   "license": "MIT",
-  "gitHead": "6ac75ca5ad277450ce5545d00853be0673de7e2e"
+  "gitHead": "d7294ba9207ae27953dd40b9681157c003b0c87a"
 }

@@ -5,7 +5,7 @@ const path = require('path');
 module.exports = merge(common, {
   entry: './es/index.js',
   output: {
-    filename: 'hnxyhcz-use-url-state.js',
+    filename: 'use-url-state.js',
     library: 'useUrlState',
     path: path.resolve(__dirname, './dist'),
   },
