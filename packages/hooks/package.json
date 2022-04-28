@@ -18,8 +18,6 @@
   "publishConfig": {
     "registry": "https://registry.npmjs.com/"
   },
-  "repository": "https://github.com/hnxyhcz/dumi-lerna-template",
-  "homepage": "https://github.com/hnxyhcz/dumi-lerna-template",
   "scripts": {
     "build": "gulp && webpack-cli"
   },
@@ -38,5 +36,5 @@
     "node": ">=8.0.0"
   },
   "license": "MIT",
-  "gitHead": "e8b68101a84d609d553c85ea5bbc9bf8b77f56a4"
+  "gitHead": "d7f10b20bf0c38e4ecc009e7f70f037a063d3544"
 }
