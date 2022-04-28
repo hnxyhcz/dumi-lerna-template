@@ -22,9 +22,6 @@
   "publishConfig": {
     "registry": "https://registry.npmjs.com/"
   },
-  "bugs": {
-    "url": ""
-  },
   "peerDependencies": {
     "react": "^16.8.0 || ^17.0.0 || ^18.0.0",
     "react-router": "^5.0.0 || ^6.0.0"
