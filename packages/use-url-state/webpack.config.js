@@ -5,8 +5,8 @@ const path = require('path');
 module.exports = merge(common, {
   entry: './es/index.js',
   output: {
-    filename: 'hnxyhcz-hooks.js',
-    library: 'hnxyhcz-hooks',
+    filename: 'hnxyhcz-use-url-state.js',
+    library: 'useUrlState',
     path: path.resolve(__dirname, './dist'),
   },
 });

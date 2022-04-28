@@ -1,15 +1,16 @@
 {
-  "name": "@hnxyhcz-lerna-demo/test-pkg",
-  "version": "0.1.12",
-  "description": "dumi lern library",
+  "name": "hnxyhcz-hooks",
+  "version": "0.1.0",
+  "description": "react hooks library",
   "keywords": [
-    "lerna-demo",
-    "dumi-lerna-demo"
+    "hnxyhcz-hooks",
+    "hnxyhcz hooks",
+    "react hooks"
   ],
-  "main": "dist/lerna-demo.js",
+  "main": "./lib/index.js",
   "module": "./es/index.js",
   "types": "./lib/index.d.ts",
-  "unpkg": "dist/lerna-demo.js",
+  "unpkg": "dist/hooks.js",
   "sideEffects": false,
   "authors": {
     "name": "hnxyhcz",
@@ -29,12 +30,17 @@
     "package.json",
     "README.md"
   ],
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
   "peerDependencies": {
     "react": "^16.8.0 || ^17.0.0 || ^18.0.0"
+  },
+  "devDependencies": {
   },
   "engines": {
     "node": ">=8.0.0"
   },
   "license": "MIT",
-  "gitHead": "2791fa9849de1de9cb99698d53339780911a0d8f"
+  "gitHead": ""
 }

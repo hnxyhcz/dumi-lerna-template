@@ -36,7 +36,7 @@ export default {
   manifest: {},
   hash: true,
   resolve: {
-    includes: ['docs', 'packages/hooks/src'],
+    includes: ['docs', 'packages/hooks/src', 'packages/use-url-state'],
   },
   links: [
     {

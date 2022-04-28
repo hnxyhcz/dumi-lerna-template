@@ -1,5 +1,4 @@
-import useToggle from './useToggle';
+import useMemoizedFn from './useMemoizedFn';
+import useUpdate from './useUpdate';
 
-export {
-  useToggle,
-};
+export { useMemoizedFn, useUpdate };

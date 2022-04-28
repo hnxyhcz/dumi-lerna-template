@@ -1,0 +1,38 @@
+{
+  "name": "@hnxyhcz-demo/use-url-state",
+  "version": "0.1.0",
+  "description": "A hook that stores the state into url query parameters.",
+  "main": "./lib/index.js",
+  "module": "./es/index.js",
+  "types": "./lib/index.d.ts",
+  "unpkg": "dist/ahooks-use-url-state.js",
+  "files": [
+    "dist",
+    "lib",
+    "es",
+    "package.json"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hnxyhcz/dumi-lerna-template.git"
+  },
+  "scripts": {
+    "build": "gulp && webpack-cli"
+  },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.com/"
+  },
+  "bugs": {
+    "url": ""
+  },
+  "peerDependencies": {
+    "react": "^16.8.0 || ^17.0.0 || ^18.0.0",
+    "react-router": "^5.0.0 || ^6.0.0"
+  },
+  "dependencies": {
+    "ahooks": "^3.3.9",
+    "query-string": "^6.9.0"
+  },
+  "license": "MIT",
+  "gitHead": ""
+}

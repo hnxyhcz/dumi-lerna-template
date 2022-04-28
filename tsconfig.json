@@ -9,8 +9,8 @@
     "baseUrl": ".",
     "paths": {
       "@/*": ["src/*"],
-      "lerna-demo": ["./packages/hooks/src/index.ts"],
-      "lerna-demo/lib/*": ["./packages/hooks/src/*"],
+      "hnxyhcz-hooks": ["./packages/hooks/src/index.ts"],
+      "hnxyhcz-hooks/lib/*": ["./packages/hooks/src/*"]
     },
     "allowSyntheticDefaultImports": true,
     "skipLibCheck": true,

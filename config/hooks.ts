@@ -1,6 +1,6 @@
 export const menus = [
   {
-    title: 'components',
-    children: ['useToggle'],
+    title: 'Components',
+    children: ['useUpdate', 'useMemoizedFn', 'use-url-state'],
   },
 ];
