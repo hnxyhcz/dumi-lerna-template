@@ -1,6 +1,6 @@
 {
   "name": "@hnxyhcz-demo/use-url-state",
-  "version": "0.1.21",
+  "version": "0.1.22",
   "description": "A hook that stores the state into url query parameters.",
   "main": "./lib/index.js",
   "module": "./es/index.js",
@@ -30,7 +30,7 @@
     "react-router": "^5.0.0 || ^6.0.0"
   },
   "dependencies": {
-    "hnxyhcz-hooks": "^0.1.21",
+    "hnxyhcz-hooks": "^0.1.22",
     "query-string": "^6.9.0"
   },
   "license": "MIT",
