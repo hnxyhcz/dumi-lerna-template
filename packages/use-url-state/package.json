@@ -1,6 +1,6 @@
 {
   "name": "@hnxyhcz-demo/use-url-state",
-  "version": "0.1.0",
+  "version": "0.1.13",
   "description": "A hook that stores the state into url query parameters.",
   "main": "./lib/index.js",
   "module": "./es/index.js",

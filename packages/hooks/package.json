@@ -1,6 +1,6 @@
 {
   "name": "hnxyhcz-hooks",
-  "version": "0.1.0",
+  "version": "0.1.13",
   "description": "react hooks library",
   "keywords": [
     "hnxyhcz-hooks",
@@ -35,8 +35,6 @@
   },
   "peerDependencies": {
     "react": "^16.8.0 || ^17.0.0 || ^18.0.0"
-  },
-  "devDependencies": {
   },
   "engines": {
     "node": ">=8.0.0"
