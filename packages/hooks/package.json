@@ -1,5 +1,5 @@
 {
-  "name": "@test/lerna-demo",
+  "name": "@hnxyhcz-lerna-demo/test-pkg",
   "version": "0.1.11",
   "description": "dumi lern library",
   "keywords": [
@@ -36,5 +36,5 @@
     "node": ">=8.0.0"
   },
   "license": "MIT",
-  "gitHead": "7c1c1f08d7f49572e9a2e6db1f87d671b0b7a7f5"
+  "gitHead": "2791fa9849de1de9cb99698d53339780911a0d8f"
 }
