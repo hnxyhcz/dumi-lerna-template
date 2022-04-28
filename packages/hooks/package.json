@@ -16,6 +16,10 @@
     "name": "hnxyhcz",
     "email": "hnxyhcz@hotmail.com"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hnxyhcz/dumi-lerna-template.git"
+  },
   "publishConfig": {
     "registry": "https://registry.npmjs.com/"
   },
@@ -40,5 +44,5 @@
     "node": ">=8.0.0"
   },
   "license": "MIT",
-  "gitHead": "a8a00a0355fa627a3b5a75f443b573801eb0e9c7"
+  "gitHead": "bbf32c2f583c55a867ba7798da2455c16348d1c7"
 }
